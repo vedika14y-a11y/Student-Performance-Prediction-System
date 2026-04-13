@@ -9,11 +9,11 @@ The Student Performance Prediction System is a machine learning-based project th
 -Suggests learning resources for improvement
 
 🛠️ Technologies Used
--Python
--Scikit-learn
--Pandas, NumPy
--Matplotlib
--Tkinter
+- Python
+- Scikit-learn
+- Pandas, NumPy
+- Matplotlib
+- Tkinter
 
 📂 How to Run
 -Clone the repository
